@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# 100 Python Challenges
 
 Rápida descrição do objetivo de fazer esse projeto
 
